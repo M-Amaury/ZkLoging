@@ -1,6 +1,6 @@
 .# Environnement variables
 .env
-/backend/.env
+backend/.env
 
 # Dossiers node_modules
 node_modules/
