@@ -24,6 +24,9 @@ const Navbar = () => {
           <li>
             <Link to="/Contract" className="btn btn-base-100 text-lg normal-case hover:scale-110 transition-transform duration-200">Contract</Link>
           </li>
+          <li>
+            <Link to="/zklogin" className="btn btn-base-100 text-lg normal-case hover:scale-110 transition-transform duration-200">zkLogin</Link>
+          </li>
         </ul>
       </div>
       <div className="navbar-end">
